@@ -29,7 +29,7 @@ module.exports = {
       resolve: 'gatsby-source-wordpress',
       options: {
         // The base url to your WP site.
-        baseUrl: 'gatsbynetliflydemo.justinwhall.com',
+        baseUrl: 'erxes.io/blog_wp',
         // baseUrl: 'data.justinwhall.com',
         // baseUrl: 'wpgatsby.wtf',
         // WP.com sites set to true, WP.org set to false
